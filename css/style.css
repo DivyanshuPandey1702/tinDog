@@ -1,1 +1,104 @@
 
+.heading {
+  background-color: #FE3C72;
+  color: #fff;
+}
+
+.iphone {
+  width: 60%;
+  transform: rotate(30deg);
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: relative;
+  top: 36px;
+}
+
+.navbar-brand {
+  font-size: 2.4rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-main {
+  padding: 8px 0 96px 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #000;
+}
+
+.img-container {
+  max-height: 480px;
+  overflow: hidden;
+}
+
+.btn {
+  margin: 36px 18px 16px 0;
+}
+
+.nav-item {
+  padding-left: 24px;
+}
+
+.nav-link {
+  font-size: 18px;
+}
+
+.main-line {
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.ico-color {
+  color: #FE3C72;
+  font-size: 84px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col-md-4 {
+  text-align: center;
+  padding: 96px 0;
+}
+
+.carousel {
+  height: 480px;
+}
+
+.carousel-container-cen {
+  text-align: center;
+  padding-top: 96px;
+}
+
+.imgr {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottom-call {
+  text-align: center;
+  padding: 96px 0;
+}
+
+.footer {
+  padding-top: 72px;
+  text-align: center;
+}
+
+.caro-pad {
+  padding: 96px 0;
+}
+
+.icon-col {
+  padding: 16px;
+  padding-bottom: 36px;
+}
+.icon-col:hover {
+  color: #bfbfbf;
+}
